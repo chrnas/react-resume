@@ -1,0 +1,37 @@
+.list-text {
+    background-color: none;
+    color: #000000;
+    text-align: left;
+    padding: 0px 0;
+    font-size: large;
+    font-family: Arial, sans-serif;
+}
+
+.list-text-bold {
+    background-color: none;
+    color: #000000;
+    text-align: left;
+    padding: 0px 0;
+    font-size: large;
+    font-family: Arial, sans-serif;
+}    
+
+.bold-first-word span:first-child {
+    font-weight: bold;
+}
+
+.ul-about-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    align-self: flex-end;
+  }
+
+.li-about-profil {
+    margin: 40px 0; /*Adds spacing between list items */
+}
+
+.li-about-list {
+margin: 10px 0; /*Adds spacing between list items */
+}

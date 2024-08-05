@@ -1,0 +1,6 @@
+.ul-education-list {
+  text-align: center;
+  list-style-type: none; /* Removes default list style */
+  padding: 0; /* Removes default padding */
+  max-width: 800px;
+}

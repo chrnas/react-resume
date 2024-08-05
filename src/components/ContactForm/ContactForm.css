@@ -1,0 +1,68 @@
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  div {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input {
+    width: 500px;
+    padding: 10px; /* Some padding */
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box;
+    background-color: #f0f8ff; /* Background color */
+  }
+
+  textarea {
+    width: 500px; /* Full width */
+    height: 150px; /* Height of the textarea */
+    padding: 10px; /* Some padding */
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Ensure padding and border are included in the element's total width and height */
+    font-size: 16px; /* Font size */
+    resize: vertical; /* Users can only resize the textarea vertically (not horizontally) */
+    background-color: #f0f8ff; /* Background color */
+    color: #333; /* Text color */
+  }
+  
+.submit-button {
+    padding: 10px 20px;
+    width: 500px;
+    background-color: #f0f8ff;
+    border: 1px solid #ccc; /* Gray border */
+    padding: 10px; /* Some padding */
+    border-radius: 4px; /* Rounded borders */
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    font-family: Arial, sans-serif;
+    font-size: medium;
+  }
+  
+.submit-button:hover {
+    border: 1px solid #d3cfcf; /* Added visible border */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Enhanced box shadow on hover */
+    transition: background-color 0.1s ease; /* Optional: smooth transition for color change */
+}
+
+.list-text-bold {
+    background-color: none;
+    color: #000000;
+    text-align: center;
+    padding: 0px 0;
+    font-size: large;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}    

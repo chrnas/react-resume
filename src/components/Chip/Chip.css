@@ -1,0 +1,27 @@
+.chip {
+  display: inline-flex;
+  align-items: center;
+  background-color: #f0f8ff;
+  padding: 1px 16px;
+  border-radius: 8px;
+  margin-right: 8px;
+  margin-top: 5px;
+  cursor: pointer;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Added box shadow */
+  border: 1px solid #ccc; /* Adds visible border */
+  transition: color 2s ease; /*Smooth transition for color change */
+}
+
+.chip:hover {
+  /*background-color: #dddbdb;*/
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Enhanced box shadow on hover */
+  border: 1px solid #d3cfcf; /* Adds visible border */
+  transition: background-color 0.1s ease; /*Smooth transition for color change */
+}
+
+.chip-label {
+  margin-right: 4px;
+  color: #333;
+  font-size: 14px;
+  text-shadow: none;
+}

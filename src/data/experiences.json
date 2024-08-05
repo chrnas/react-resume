@@ -1,0 +1,107 @@
+{
+  "experiences": [
+    {
+      "id": 1,
+      "name": "IT-Systemsupport",
+      "description": "Summer internship 2023. Assistance with system maintenance, system development, and system support.",
+      "company": {
+        "name": "Billerud",
+        "link": "https://www.billerud.se/"
+      },
+      "skills": [
+        {
+          "name": "Python",
+          "link": "https://www.python.org/"
+        },
+        {
+          "name": "JavaScript",
+          "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+        },
+        {
+          "name": "Matlab",
+          "link": "https://se.mathworks.com/help/matlab/"
+        },
+        {
+          "name": "TypeScript",
+          "link": "https://www.typescriptlang.org/"
+        },
+        {
+          "name": "HTML",
+          "link": "https://developer.mozilla.org/en-US/docs/Web/HTML"
+        },
+        {
+          "name": "CSS",
+          "link": "https://developer.mozilla.org/en-US/docs/Web/CSS"
+        },
+        {
+          "name": "Angular",
+          "link": "https://angular.dev/"
+        },
+        {
+          "name": "C#",
+          "link": "https://learn.microsoft.com/en-us/dotnet/csharp/"
+        },
+        {
+          "name": "ASP.NET Core",
+          "link": "https://dotnet.microsoft.com/en-us/apps/aspnet"
+        },
+        {
+          "name": "SQL",
+          "link": "https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16"
+        },
+        {
+          "name": "PostgreSQL",
+          "link": "https://www.postgresql.org/"
+        }
+      ],
+      "date": "Summer 2023",
+      "location": {
+        "name": "Grums",
+        "link": "https://www.google.se/maps/place/Billerud+Gruv%C3%B6n/@59.3360231,13.1040617,14.29z/data=!4m15!1m8!3m7!1s0x464351b037812ab7:0x5d6ab90d87700e62!2s664+40+Gruv%C3%B6n!3b1!8m2!3d59.3323939!4d13.115507!16s%2Fg%2F1tgwqvwj!3m5!1s0x464351b659c83f9f:0xe41d4d51ca637904!8m2!3d59.3399406!4d13.1169363!16s%2Fg%2F11dykf08y?entry=ttu"
+      }
+    },
+    {
+      "id": 2,
+      "name": "IT-Systemsupport",
+      "description": "Summer internship 2022.  Assistance with system maintenance, system development, and system support.",
+      "company": {
+        "name": "Billerud",
+        "link": "https://www.billerud.se/"
+      },
+      "skills": [
+        {
+          "name": "Python",
+          "link": "https://developer.mozilla.org/en-US/docs/Glossary/Python"
+        },
+        {
+          "name": "Matlab",
+          "link": "https://se.mathworks.com/help/matlab/"
+        },
+        {
+          "name": "SQL",
+          "link": "https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16"
+        }
+      ],
+      "date": "Summer 2022",
+      "location": {
+        "name": "Grums",
+        "link": "https://www.google.se/maps/place/Billerud+Gruv%C3%B6n/@59.3360231,13.1040617,14.29z/data=!4m15!1m8!3m7!1s0x464351b037812ab7:0x5d6ab90d87700e62!2s664+40+Gruv%C3%B6n!3b1!8m2!3d59.3323939!4d13.115507!16s%2Fg%2F1tgwqvwj!3m5!1s0x464351b659c83f9f:0xe41d4d51ca637904!8m2!3d59.3399406!4d13.1169363!16s%2Fg%2F11dykf08y?entry=ttu"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Shop assistant",
+      "description": "Summersubstitute during summer 2021, 2020, 2019. In my role, I gained experience in customer service and working with clients.",
+      "company": {
+        "name": "ICA",
+        "link": "https://www.ica.se/"
+      },
+      "skills": [],
+      "date": "Summer 2021, 2020, 2019",
+      "location": {
+        "name": "Säffle",
+        "link": "https://www.google.se/maps/place/ICA+N%C3%A4ra+S%C3%A4ffle/@59.1329146,12.920718,16z/data=!4m6!3m5!1s0x4644a8997e96274b:0x292a80b2b25ad5af!8m2!3d59.1328779!4d12.9326687!16s%2Fg%2F11bx4cvxxf?entry=ttu"
+      }
+    }
+  ]
+}

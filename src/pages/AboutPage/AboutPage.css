@@ -1,0 +1,53 @@
+.about-section {
+  height: 100vh;
+  padding: 16px 10px;
+  border-bottom: none;
+}
+
+.profile-img {
+  border-radius: 8px;
+  padding: 0px;
+  width: 300px;
+  box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.2), 0 5px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.contact-list {
+  margin: 5px 0; /* Optional: adds spacing between list items */
+}
+
+.about-grid-container {
+  display: inline-grid;
+  grid-template-columns: auto auto auto;
+  padding: 20px;
+  box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.2), 0 5px 20px 0 rgba(0, 0, 0, 0.19);
+  transition: transform 0.2s ease-in-out;
+  background-color: #f0f8ff;
+  border-radius: 8px;
+  max-width: 1000px;
+}
+
+.grid-item {
+  padding: 20px;
+  text-align: center;
+  max-width: 600px; /* Set the desired maximum width for grid items */
+}
+
+.icon {
+  margin-right: 10px;
+  margin-left: 10px;   
+}
+
+.icon:hover {
+  transform: scale(1.05);
+}
+
+.link-ul {
+  list-style: none;
+  margin-top: 30px;
+  align-items: center;
+  text-align: center; /* Optional: centers list items horizontally */
+  align-self: flex-end;
+}
+link-li {
+  margin: 50px 0; /* Optional: adds spacing between list items */
+}

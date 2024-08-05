@@ -1,0 +1,92 @@
+{
+  "educations": [
+    {
+      "program": {
+        "name": "Master of Science in Computer Science and Engineering",
+        "link": "https://liu.se/en/education/program/6cddd"
+      },
+      "description": "Fourth year on Computer Science and Engineering program at Linköpings university. During my education i have mainly worked with Python, C++ och Java however Assembly, VHDL, C och Matlab have also been used.",
+      "school": {
+        "name": "Linköpings universitet",
+        "link": "https://liu.se/en",
+        "location": {
+          "name": "Linköping",
+          "link": "https://www.google.se/maps/place/Link%C3%B6pings+universitet/@58.3991809,15.5524361,13.75z/data=!4m15!1m8!3m7!1s0x46596e719a049f95:0x400fef341e48e70!2sLink%C3%B6ping!3b1!8m2!3d58.410807!4d15.6213728!16zL20vMHp3MV8!3m5!1s0x465940211c4658ef:0x745f8c56c15b1388!8m2!3d58.3978364!4d15.5760072!16zL20vMDE2MWo0?entry=ttu"
+        }
+      },
+      "startDate": "2021-08-17",
+      "examDate": "ongoing",
+      "skills": [
+        {
+          "name": "Python",
+          "link": "https://www.python.org/"
+        },
+        {
+          "name": "C++",
+          "link": "https://cplusplus.com/"
+        },
+        {
+          "name": "Java",
+          "link": "https://www.oracle.com/java/"
+        },
+        {
+          "name": "Assembly",
+          "link": "https://en.wikipedia.org/wiki/Assembly_language"
+        },
+        {
+          "name": "VHDL",
+          "link": "https://standards.ieee.org/ieee/1076/5179/"
+        },
+        {
+          "name": "C",
+          "link": "https://www.open-std.org/jtc1/sc22/wg14/"
+        },
+        {
+          "name": "Matlab",
+          "link": "https://se.mathworks.com/help/matlab/"
+        }
+      ]
+    },
+    {
+      "program": {
+        "name": "Military service conscription- Communications/Command soldier",
+        "link": "https://jobb.forsvarsmakten.se/sv/utbildning/befattningsguiden/gu-befattningar/sambandssoldat-armen/"
+      },
+      "description": "Military service conscription with Basic training as Communications/Command soldier in the Swedish armed forces at Skaraborgsregemente p4.",
+      "school": {
+        "name": "Swedish armed forces",
+        "link": "https://www.forsvarsmakten.se/en/",
+        "location": {
+          "name": "Skövde",
+          "link": "https://www.google.se/maps/place/F%C3%B6rsvarsmakten+Skaraborgs+regemente+P+4/@58.3797985,13.8431654,16.25z/data=!4m6!3m5!1s0x465b023c4080c633:0xcc37746c5952366f!8m2!3d58.3805!4d13.8473!16s%2Fg%2F1hc3ysm2t?entry=ttu"
+        }
+      },
+      "startDate": "2020-09-21",
+      "examDate": " 2021-06-23",
+      "skills": []
+    },
+    {
+      "program": {
+        "name": "Engineering program - engineering science",
+        "link": "https://liu.se/en/education/program/6cddd"
+      },
+      "description": "Gymnasieexam at the Technicalprogram att Älvkullegymnasiet with orientation engineering science.",
+      "school": {
+        "name": "Älvkullegymnasiet",
+        "link": "https://karlstad.se/karlstads-kommunala-gymnasieskolor/vara-utbildningar/teknikprogrammet",
+        "location": {
+          "name": "Karlstad",
+          "link": "https://www.google.se/maps/place/%C3%84lvkullegymnasiet/@59.3942457,13.5020437,15.75z/data=!4m6!3m5!1s0x465cb3def865778d:0xba725377ecfd1e80!8m2!3d59.393506!4d13.50929!16s%2Fg%2F11dykly3l?entry=ttu"
+        }
+      },
+      "startDate": "2017",
+      "examDate": "2020",
+      "skills": [
+        {
+          "name": "Java",
+          "link": "https://www.oracle.com/java/"
+        }
+      ]
+    }
+  ]
+}

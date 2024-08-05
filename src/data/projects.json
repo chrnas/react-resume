@@ -1,0 +1,68 @@
+{
+    "projects":[
+        {
+            "name":"Mapping robot microcomputer",
+            "description":"Robot that can traverse and map a maze using distance sensors, DFS algorithm and PID controlling.",
+            "image":"robot",
+            "skills":[
+                {
+                    "name": "Python",
+                    "link": "https://www.python.org/"
+                },
+                {
+                    "name": "C",
+                    "link": "https://www.open-std.org/jtc1/sc22/wg14/"
+                }
+            ],
+            "githubLink":"https://github.com/chrnas/mapping-robot-microcomputer"
+        },
+        {
+            "name":"Computer construction (Snake)",
+            "description":"The creation of a microcomputer using VHDL and microcode for it to play a version of the popular game Snake.",
+            "image":"snake",
+            "skills":[
+                {
+                    "name": "VHDL",
+                    "link": "https://standards.ieee.org/ieee/1076/5179/"
+                }
+            ],
+            "githubLink":"https://github.com/chrnas/computer-construction-snake"
+        },
+        {
+            "name":"Sound localization",
+            "description":"Sound source localization system using various techniques based on signals received at multiple microphones. ",
+            "image":"sound_localization",
+            "skills":[
+                {
+                    "name": "Python",
+                    "link": "https://www.python.org/"
+                }
+            ],
+            "githubLink":"https://github.com/chrnas/sound-localization"
+        },
+        {
+            "name":"Floppy Borb A Java Game project",
+            "description":"A two people project using Java where a fun and casual game were created",
+            "image":"flappy",
+            "skills":[
+                {
+                    "name": "Java",
+                    "link": "https://www.oracle.com/java/"
+                }
+            ],
+            "githubLink":"https://github.com/chrnas/floppy-borb"
+        },
+        {
+            "name":"Tank AI game",
+            "description":"A group project where a capture the flag tank AI game were created using DFS algorithm and python libraries such as pygame.",
+            "image":"tank",
+            "skills":[
+                {
+                    "name": "Python",
+                    "link": "https://www.python.org/"
+                }
+            ],
+            "githubLink":"https://github.com/chrnas/ctf-tank-ai"
+        }
+    ]
+}
